@@ -14,6 +14,8 @@
         <thead class="bg-gray-100">
             <tr>
                 <th class="p-3 text-left">Name</th>
+                <th class="p-3 text-left">Image</th>
+
                 <th class="p-3 text-left">Email</th>
                 <th class="p-3 text-right">Actions</th>
             </tr>
